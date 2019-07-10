@@ -1,0 +1,27 @@
+---
+
+---
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+  </head>
+  <body>
+
+    {% for talk in site.talks %}
+      <h2>{{ talk.title }}</h2>
+      <p>{{ talk.description | markdownify }}</p>
+      {% for slide in talk.slides %}
+        <p>{{ slide.slide-text | markdownify }}</p>
+      {% endfor %}
+    {% endfor %}
+
+    {% for position in site.data.personal-experience %}
+    <h2>{{ position.title }}</h2>
+    <p>{{ position.date-start | date: "%B %Y" }} – {{ position.date-end | date: "%B %Y"}}</p>
+    <p>{{ position.description }}</p>
+    {% endfor %}
+
+  </body>
+</html>

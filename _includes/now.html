@@ -1,0 +1,9 @@
+Hi my name is {{ site.data.personal-profile.name }} and I'm currently living in {{ site.data.personal-profile.location }}.
+
+I work at <a href="{{ page.current-link }}">{{ page.current-job }}</a> as {{ page.current-title }}. {% if page.side-job != null %}I'm also a {{ page.side-title }} at <a href="{{ page.side-link }}">{{ page.side-job }}</a>.{% endif %}
+
+I'm currently working on {{ page.working-on }}.
+
+I'm reading <a href="{{ page.reading-link }}">{{ page.reading }}</a>, watching <a href="{{ page.watching-link }}">{{ page.watching }}</a> and listening to <a href="{{ page.listening-link }}">{{ page.listening }}</a>.
+
+At the moment I'm looking forward to {{ page.looking-forward-to }}!

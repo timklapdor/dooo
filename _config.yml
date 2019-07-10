@@ -1,0 +1,67 @@
+# Site settings
+title: A Domain of Ones Own
+email: your-email@domain.com
+description: "Jekyll basics is a Jekyll Starter package. It creates a basic structure, CSS and HTML templates to get a site up quickly." # Be descriptive
+keywords:
+  - jekyll
+
+# URL
+# url:
+# baseurl: # the subpath of your site, e.g. /blog/
+
+# plugins
+plugins:
+  - "jekyll-github-metadata" # Helps resolves issues with baseurl and github pages. Use baseurl in links and this will resolve the correct base
+
+#social
+site-logo:
+site-image:
+social-twitter:
+social-facebook:
+social-linkedin:
+social-github:
+
+#Timezone
+timezone: Australia/Sydney
+
+# Fonts
+## Need to be specifid in SCSS file - type-settings
+fonts: # https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700
+
+# sass:
+#  style: compressed
+
+# encoding
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
+
+# Setup for pages
+# include: ["_pages"]
+# permalink: /:title.html
+
+# Setup for Categories
+collections:
+  pages:
+    output: true
+    permalink: /:path:output_ext
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+  talks:
+    output: true
+    permalink: /:collection/:name
+  writing:
+    output: true
+    permalink: /:collection/:name
+  dev:
+    output: true
+    permalink: /:collection/:name
+
+# defaults:
+#   - scope:
+#       path: ""
+#       type: recipes
+#     values:
+#       layout: recipes

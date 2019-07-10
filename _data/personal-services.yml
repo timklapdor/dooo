@@ -1,0 +1,27 @@
+---
+- name: Twitter
+  url: https://twitter.com/timklapdor
+  usr: "@timklapdor"
+  purpose: My personal stream of updates and curated links.
+- name: LinkedIn
+  url: http://www.linkedin.com/in/timklapdor
+  usr: timklapdor
+  purpose: Professional profile and resume.
+- name: GitHub
+  url: https://github.com/timklapdor/
+  usr: timklapdor
+  purpose: Hub for all my digital projects.
+- name: Flickr
+  url: https://www.flickr.com/photos/timklapdor/
+  usr: timklapdor
+  purpose: Shared photo collection, a lot of what's on here is Creative Commons.
+- name: YouTube
+  url: https://www.youtube.com/user/timklapdor
+  usr: timklapdor
+  purpose: A number of talks and presentations are available here. 
+# - name:
+#   url:
+#   usr:
+#   purpose:
+
+---

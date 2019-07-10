@@ -1,0 +1,7 @@
+{% assign services = site.data.personal-services | sort: 'name' %}
+
+<ul>
+{% for item in services %}
+  <li><a href="{{ item.url }}">{{ item.name }}</a> - {{ item.purpose }}</li>
+{% endfor %}
+</ul>
