@@ -8,10 +8,12 @@ purpose: |-
 	Location or audience
 date:
 outputs:
-- PDF
-- Video
-- Blog Post
-screenshots:
-- Screenshots
+- name: Download PDF
+  link: #
+thumbnail: # Screenshots
+slides:
+- slide-image: 2019-introducing-india-01.jpg
+  slide-text: |-
+
 
 ---
