@@ -1,11 +1,11 @@
 ---
 
-title:
+title: A Distributed Learning System
 subtitle:
 description: |-
-	What is the presentation about
+  What is the presentation about
 purpose: |-
-	Location or audience
+  Location or audience
 date: 2017-06-02 00:00:00
 outputs:
 - name: Download PDF
