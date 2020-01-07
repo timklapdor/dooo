@@ -8,6 +8,12 @@
     <title>{{ site.title }}</title>
   </head>
   <body>
+    
+    {% for position in site.data.personal-experience %}
+    <h2>{{ position.title }}</h2>
+    <p>{{ position.date-start | date: "%B %Y" }} – {{ position.date-end | date: "%B %Y"}}</p>
+    <p>{{ position.description }}</p>
+    {% endfor %}
 
     {% for talk in site.talks %}
       <h2>{{ talk.title }}</h2>
@@ -17,11 +23,7 @@
       {% endfor %}
     {% endfor %}
 
-    {% for position in site.data.personal-experience %}
-    <h2>{{ position.title }}</h2>
-    <p>{{ position.date-start | date: "%B %Y" }} – {{ position.date-end | date: "%B %Y"}}</p>
-    <p>{{ position.description }}</p>
-    {% endfor %}
+
 
   </body>
 </html>

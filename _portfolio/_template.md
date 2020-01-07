@@ -1,26 +1,30 @@
 ---
 title:
 slug:
+one-liner:
 description: |-
 
-date-start:
+status: |-
+
+outcome: |-
+
+thumbnail:
+colour:
+date-start: 2017-03-01 00:00:00
 date-end:
-date-project: 
-position:
+employer:
 role: |-
 
 responsibilities:
--
+
+team:
 outputs:
 -
 visuals:
 -
-goals:
-problem-statement: |-
+lessons: |-
 
-methods:
-focus-areas:
-key-features:
-learnings:
+links:
+-
 
 ---
