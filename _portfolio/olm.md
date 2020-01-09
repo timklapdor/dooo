@@ -24,8 +24,8 @@ outcome: |-
   The model was workshopped across the university and for the first time provide a consistent language that could be used by both learning designers and academics to co-design and develop their courses. After the workshops we ran pilots across the faculties and refined the model further. This was then rolled out on a limited basis and tested before becoming mainstreamed in 2018.
 thumbnail:
 colour:
-date-start: 2017-03-01 00:00:00
-date-end:
+date-start: 2015-03-01 00:00:00
+date-end: 2016-12-01 00:00:00
 employer: CSU
 role: Online Learning Technology Leader
 responsibilities:
@@ -36,6 +36,11 @@ team:
 - Dr Lindy Croft-Piggin
 - Professor Barney Dalgarno
 - Professor Dob Olcott Jr.
+- James Purkis
+- Lauren Carlsson
+- Carole Hunter
+- Judy O’Connell
+- Julie Lindsay
 outputs:
 -
 visuals:

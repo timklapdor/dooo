@@ -16,8 +16,8 @@ outcome: |-
   The site itself hasn't changed a lot since its inception but it has become a tool used by staff within the university, but also has found a larger global audience. The sites design was kept simple with the idea that it could be syndicated or federated across multiple institutions.
 thumbnail:
 colour:
-date-start: 2017-03-01 00:00:00
-date-end:
+date-start: 2016-05-01 00:00:00
+date-end: 2017-12-31 00:00:00
 employer: CSU
 role: Online Learning Technology Leader
 responsibilities:
@@ -34,7 +34,7 @@ visuals:
 lessons: |-
   I really liked the concept of a pattern language the first time I read about it and was glad to have a chance to create my own. That said it's incredibly difficult to get the right level of granularity and to explain that to others. We're so used to thinking big picture when it comes to learning design and teaching, but quite often it is the small elements that make the bigger difference. Getting down to those components takes a bit of work and trying to decouple one strategy from another can be difficult.
 
-  I'm really happy with the level of exposure the Learning Exchange has gotten over the years and it's an impressive resource that I'm really proud of. 
+  I'm really happy with the level of exposure the Learning Exchange has gotten over the years and it's an impressive resource that I'm really proud of.
 links:
 -
 

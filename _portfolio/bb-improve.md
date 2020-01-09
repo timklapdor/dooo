@@ -20,8 +20,8 @@ outcome: |-
   The theme is still in place and is such a huge improvement it would be difficult to go back to anything like the default now.
 thumbnail:
 colour:
-date-start: 2017-03-01 00:00:00
-date-end: 2018-03-01 00:00:00
+date-start: 2017-04-01 00:00:00
+date-end: 2018-04-01 00:00:00
 employer: CSU
 role: Online Learning Technology Leader
 responsibilities:
@@ -33,6 +33,13 @@ responsibilities:
 - Documentation -
 - Training -
 team:
+- Ryun Fell
+- Barney Dalgarno
+- Carole Hunter
+- Julie Lindsay
+- Judy O’Connell
+- Jason Hambly
+- James Sloane
 outputs:
 -
 visuals:
@@ -40,7 +47,7 @@ visuals:
 lessons: |-
   This was one of those projects where things went wrong. The scope of the project was large - it affected every single student and all teaching staff - but it wasn't resourced accordingly. This is because of internal structures within the university and the fact that Product Owners aren't necessarily in control of the resources to actually manage the product itself. For example the main pool of staff with web development experience are in the web team - who's remit is the website and admin systems, not learning and teaching systems. So a lot of responsibility went onto my shoulders as well as most of the labour required to complete the project. At the same time many decisions that directly affected the project were not in my control and so I was beholden to changes to timelines, timeframes and rollout dates that were beyond my control. We had limited ability to test effectively given the scale of the system and we weren't able to stagger rollout, it was all or nothing.
 
-  What I got out of the project was a clear understanding around decision making, resource allocation, staff burnout (my own) and the need for more diverse communications strategies. 
+  What I got out of the project was a clear understanding around decision making, resource allocation, staff burnout (my own) and the need for more diverse communications strategies.
 links:
 - New elements demonstration - [Material Demonstration](https://uimagine.edu.au/interact2-theme/material-demo/)
 - New style guide tool - [Style Guide](http://uimagine.csu.domains/learning-materials/)
